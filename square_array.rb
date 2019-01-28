@@ -6,5 +6,5 @@ def square_array(array)
     retun new_numbers
 end
 
- = [1,2,3]
-square_array(numbers)
+array = [1,2,3]
+square_array(array)
